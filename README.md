@@ -17,12 +17,4 @@ npm start
 npm run build
 ```
 
-## App Info
-
-### Author
-
  
-
-### License
-
-This project is licensed under the MIT License
